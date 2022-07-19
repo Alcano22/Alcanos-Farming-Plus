@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "afp:frying_pan"
+    },
+    {
+      "item": "afp:milk_bottle"
+    },
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "result": {
+    "item": "afp:omelet",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "block.afp.mill": "Mill",
+
+  "item.afp.frying_pan": "Frying Pan",
+  "item.afp.milk_bottle": "Milk Bottle",
+  "item.afp.wheat_flour": "Wheat Flour",
+  "item.afp.fried_egg": "Fried Egg",
+  "item.afp.omelet": "Omelet",
+
+  "menu.afp.mill": "Mill",
+
+  "itemGroup.afp.blocks": "AFP Blocks",
+  "itemGroup.afp.items": "AFP Items",
+  "itemGroup.afp.food": "AFP Food"
+}
